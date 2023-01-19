@@ -1,0 +1,8 @@
+:root {
+    --primary-bg-color: rgba(255, 255, 255, 0.952);
+    --secondary-bg-color: rgb(14, 14, 14);
+    --text-color-primary: rgb(221, 3, 3);
+    --text-color-secondary: rgb(255, 255, 255);
+    --text-color-third: rgb(197, 197, 197);
+    --border-color: rgb(175, 175, 175);
+}
